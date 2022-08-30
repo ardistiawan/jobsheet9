@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:layout_width="250dp"
+        android:layout_height="300dp"
+        android:layout_gravity="center"
+        android:background="#F11251" />
+
+    <ImageView
+        android:layout_width="516dp"
+        android:layout_height="112dp"
+        android:layout_gravity="center"
+        android:background="#1253F6" />
+
+    <ImageView
+        android:layout_width="101dp"
+        android:layout_height="197dp"
+        android:layout_gravity="center"
+        android:background="#1F22F6" />
+    <ImageView
+        android:layout_width="101dp"
+        android:layout_height="112dp"
+        android:layout_gravity="center"
+        android:background="#FB0000" />
+    <ImageView
+        android:layout_width="101dp"
+        android:layout_height="197dp"
+        android:layout_gravity="center"
+        android:background="#0811D3" />
+
+    <ImageView
+        android:layout_width="101dp"
+        android:layout_height="492dp"
+        android:layout_gravity="center"
+        android:background="#5B51ED" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="202dp"
+        android:layout_height="83dp"
+        android:layout_gravity="center"
+        android:text="Ahmad Ardhi Setiawan" />
+
+
+</FrameLayout>
